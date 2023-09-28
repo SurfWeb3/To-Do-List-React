@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web3React/static/css/main.c4e44861.css",
+    "main.js": "/Web3React/static/js/main.77b28c78.js",
+    "static/js/787.a5cad257.chunk.js": "/Web3React/static/js/787.a5cad257.chunk.js",
+    "index.html": "/Web3React/index.html",
+    "main.c4e44861.css.map": "/Web3React/static/css/main.c4e44861.css.map",
+    "main.77b28c78.js.map": "/Web3React/static/js/main.77b28c78.js.map",
+    "787.a5cad257.chunk.js.map": "/Web3React/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e44861.css",
+    "static/js/main.77b28c78.js"
+  ]
+}
