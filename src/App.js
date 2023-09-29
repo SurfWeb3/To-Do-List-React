@@ -18,11 +18,11 @@ const [todos, setTodos] = useState([])
 
 useEffect(() => {
   const storedTodos = JSON.parse(localStorage.getItem("todos"))
-  if (storedTodos.length > 0) {
+  if (storedTodos && storedTodos.length > 0) {
     setTodos(storedTodos)
   }
 }, [])
-
+ 
 useEffect(() => {
   localStorage.setItem("todos", JSON.stringify(todos))
 }, [todos])
